@@ -1,2 +1,2 @@
 # sigma-17
-this is my learning demo
+this is my learning demo.
